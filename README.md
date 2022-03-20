@@ -13,9 +13,9 @@
 
 <br>
 <p >
-  <img alt="Github Stats de Leandro Rognoni" src="https://github-readme-stats.vercel.app/api?username=leandrorognoni&show_icons=true&theme=vue"> 
+  <img alt="Github Stats de Leandro Rognoni" src="https://github-readme-stats.vercel.app/api?username=leandrorognoni&show_icons=true&theme=vue-dark"> 
 </p>
-<p><img alt="Github Contribución de Leandro Rognoni" src="https://github-readme-streak-stats.herokuapp.com?user=leandrorognoni&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D"/></p><br> 
+<p><img alt="Github Contribución de Leandro Rognoni" src="https://github-readme-streak-stats.herokuapp.com?user=leandrorognoni&theme=vue&date_format=M%20j%5B%2C%20Y%5D"/></p><br> 
  
 
 
