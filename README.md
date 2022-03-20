@@ -2,10 +2,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Sobre mí</i>
 
--  **Aprendizaje :** Analista de Sistemas Informáticos 👨‍💻: |  
+-  **Aprendizaje :** Analista de Sistemas Informáticos 👨‍💻 
 -  **Lenguajes :** Java, JavaScript, C++💻
--  **Hobbies :** Programación 🖥️ Lectura 📕 Ajedrez ♟️ Piano 🎹 Disco Music 🎧 Documentales 🐫  :
--  **Fact :** «El trabajo duro es un talento. La capacidad de seguir intentándolo cuando otros abandonan es un talento» 🎯:heart:
+-  **Hobbies :** Programación 🖥️ Lectura 📕 Ajedrez ♟️ Piano 🎹 Disco Music 🎧 Documentales 🦈
+-  **Fact :** « El precio del éxito es el trabajo duro, dedicación y determinación» 🎯
 
 <p align="center">
   <img alt="Github Stats de Leandro Rognoni" src="https://github-readme-stats.vercel.app/api?username=leandrorognoni&show_icons=true&theme=vue-dark">
