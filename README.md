@@ -8,7 +8,7 @@
 -  **Fact :** 🎯:heart:
 
 <p align="center">
-  <img alt="Github Stats de Leandro Rognoni" src="https://github-readme-stats.vercel.app/api?username=leandrorognoni&show_icons=true&theme=radical">
+  <img alt="Github Stats de Leandro Rognoni" src="https://github-readme-stats.vercel.app/api?username=leandrorognoni&show_icons=true&theme=vue">
 </p>
 
  
