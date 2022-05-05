@@ -7,7 +7,7 @@
 ### <i>Sobre mí</i>
 
 -  **Carrera :** Analista de Sistemas 👨‍💻 
--  **Lenguajes :** Java, JavaScript, C++💻
+-  **Lenguajes :** Java, JavaScript, C#💻
 -  **Conocimientos técnicos :** SQL,  Node.Js, Spring boot, API REST, Docker, UML, Android, HTML5, CSS3.
 -  **Hobbies :** Programación 🖥️ Lectura 📕 Ajedrez ♟️ Piano 🎹  Documentales 🦈
 
