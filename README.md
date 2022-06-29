@@ -1,5 +1,5 @@
  
- <h1>Bienvenidos, Soy Leandro Rognoni</a> <img  src="https://camo.githubusercontent.com/109d34078c5b42039b59e075b4b242e51d522e1cad27866904cec2d97da582b2/68747470733a2f2f632e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" width="50" ></h1>
+ <h1>Bienvenidos, Soy Leandro Rognoni</a> <img  src="https://camo.githubusercontent.com/109d34078c5b42039b59e075b4b242e51d522e1cad27866904cec2d97da582b2/68747470733a2f2f632e74656e6f722e636f6d2f57783949456d5a5a58536f41414141692f68692e676966" width="40" ></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro_Rognoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-martin-rognoni-6548ab234/)](https://www.linkedin.com/in/leandro-martin-rognoni-6548ab234/)  [![Gmail Badge](https://img.shields.io/badge/-leandromartinrognoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandromartinrognoni@gmail.com)](mailto:leandromartinrognoni@gmail.com)
