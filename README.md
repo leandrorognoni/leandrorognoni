@@ -1,5 +1,5 @@
  
- <h1>Bienvenidos, Soy Leandro Rognoni</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+ <h1>Bienvenidos, Soy Leandro Rognoni</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"width="30" ></h1>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro_Rognoni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-martin-rognoni-6548ab234/)](https://www.linkedin.com/in/leandro-martin-rognoni-6548ab234/)  [![Gmail Badge](https://img.shields.io/badge/-leandromartinrognoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandromartinrognoni@gmail.com)](mailto:leandromartinrognoni@gmail.com)
