@@ -8,7 +8,7 @@
 
 -  **Carrera :** Analista de Sistemas 👨‍💻 
 -  **Lenguajes :** Java, JavaScript, C#💻
--  **Conocimientos técnicos :** SQL, Entity Framework, Node.Js, Spring boot, API REST, UML, Android, HTML5, CSS3.
+-  **Conocimientos técnicos :** SQL, Entity Framework, Node.Js, Android, HTML5, CSS3.
 -  **Hobbies :** Programación 🖥️ Lectura 📕 Ajedrez ♟️ Piano 🎹  Documentales 🦈
 
 <hr>
